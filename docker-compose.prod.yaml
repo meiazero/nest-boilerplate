@@ -1,6 +1,6 @@
 services:
   backend:
-    container_name: cereia-backend
+    container_name: nest-boilerplate
 
     build:
       context: .
